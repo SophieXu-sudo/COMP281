@@ -1,10 +1,5 @@
 /*
-* Student ID: 201448703
-* Student Name: Zongyan Xu
-* Email: Z.Xu59@student.liverpool.ac.uk
-* User: sgzxu22
 * Problem ID: 1013
-* RunID: 7796
 * Result: Accepted */
 
 #include <stdio.h>
